@@ -1,0 +1,10 @@
+Cython>=3.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+torch>=2.0.0
+transformers>=4.30.0
+pandas>=2.0.0
+spacy==3.4.4
+tqdm>=4.65.0
+termcolor>=2.3.0
+colorama>=0.4.6
